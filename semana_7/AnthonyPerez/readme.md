@@ -7,14 +7,6 @@
         <img src="https://avatars.githubusercontent.com/u/102273996?v=4" alt="Flet Logo" width="100">
     </a>  
 </p>
-<p align="center">
-    <a href="https://travis-ci.org/joemccann/dillinger">
-        <img src="https://travis-ci.org/joemccann/dillinger.svg?branch=master" alt="Build Status">
-    </a>
-    <a href="https://travis-ci.org/joemccann/dillinger">
-        <img src="https://travis-ci.org/joemccann/dillinger.svg?branch=master" alt="Build Status">
-    </a>
-</p>
 
 Este repositorio contiene implementaciones de los algoritmos de ordenamiento QuickSort y MergeSort en Python, tanto de forma recursiva como iterativa. A continuación, se detallan los archivos incluidos y su descripción:
 
