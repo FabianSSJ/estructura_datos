@@ -3,9 +3,6 @@
     <a href="https://www.python.org/">
         <img src="https://th.bing.com/th/id/OIP.EDJ9xoErBbZqK2tExVoJfAAAAA?rs=1&pid=ImgDetMain" alt="Python Logo" width="100">
     </a>
-    <a href="https://flet.io/">
-        <img src="https://avatars.githubusercontent.com/u/102273996?v=4" alt="Flet Logo" width="100">
-    </a>  
 </p>
 
 Este repositorio contiene implementaciones de los algoritmos de ordenamiento QuickSort y MergeSort en Python, tanto de forma recursiva como iterativa. A continuación, se detallan los archivos incluidos y su descripción:
