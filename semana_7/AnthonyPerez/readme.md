@@ -4,7 +4,7 @@
         <img src="https://th.bing.com/th/id/OIP.EDJ9xoErBbZqK2tExVoJfAAAAA?rs=1&pid=ImgDetMain" alt="Python Logo" width="100">
     </a>
 </p>
-
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif"  width="100">
 Este repositorio contiene implementaciones de los algoritmos de ordenamiento QuickSort y MergeSort en Python, tanto de forma recursiva como iterativa. A continuación, se detallan los archivos incluidos y su descripción:
 
 ## Archivos
@@ -74,6 +74,3 @@ Si deseas contribuir a este repositorio, puedes seguir los siguientes pasos:
 4. Envía tus cambios (`git push origin nueva-rama`).
 5. Abre un Pull Request.
 
-## Nota:
-
-Este README es un resumen básico de los ejercicios realizados. Se recomienda revisar el código y las explicaciones detalladas proporcionadas en las sesiones anteriores para una comprensión completa.
