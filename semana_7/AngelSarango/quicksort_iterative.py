@@ -32,4 +32,3 @@ def quicksort_iterative(arr):
 if __name__ == "__main__":
     arr = [12, 4, 7, 3, 10, 6, 1]
     print("Lista original:", arr)
-    print("Lista ordenada:", quicksort_iterative(arr))
