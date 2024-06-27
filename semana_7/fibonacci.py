@@ -7,4 +7,4 @@ def fibonacci(n):
     else:  # Caso Recursivo
         return fibonacci(n - 1) + fibonacci(n - 2)
 
-print("Fibonacci de 7:", fibonacci(30))  # Debería imprimir 5
+print("Fibonacci de 7:", fibonacci(5))  # Debería imprimir 5

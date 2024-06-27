@@ -36,4 +36,6 @@ public class BusquedaLinealRecursiva {
             System.out.println("Elemento encontrado en el índice " + result);
         }
     }
+    
+    // comentario de prueba
 }
