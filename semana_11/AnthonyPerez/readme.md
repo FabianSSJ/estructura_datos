@@ -80,4 +80,3 @@ Para aprender más sobre el Triángulo de Sierpinski y otros fractales, visita:
 - [Fractales en Matemáticas](https://www.matematicascercanas.com/2017/04/fractales-en-matematicas.html)
 
 
-
