@@ -47,6 +47,7 @@ def main():
     sierpinski(points, 5, my_turtle)
     
     screen.exitonclick()
+    
 
 if __name__ == "__main__":
     main()
