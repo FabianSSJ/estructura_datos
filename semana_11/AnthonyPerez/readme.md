@@ -79,5 +79,5 @@ Para aprender más sobre el Triángulo de Sierpinski y otros fractales, visita:
 - [Triángulo de Sierpinski en Wikipedia](https://es.wikipedia.org/wiki/Tri%C3%A1ngulo_de_Sierpinski)
 - [Fractales en Matemáticas](https://www.matematicascercanas.com/2017/04/fractales-en-matematicas.html)
 
----
+
 
