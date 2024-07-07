@@ -56,7 +56,7 @@ class ColaDobleEnlace {
     }
 }
 
-public class SimulacionCola {
+public class SimulacionCola{
 
     // Función para simular la atención de clientes
     public static void simularAtencionClientes() {
