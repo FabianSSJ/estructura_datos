@@ -86,7 +86,8 @@ public class list2Enlazada {
             System.out.println("Llegó " + cliente.nombre + " a las " + cliente.tiempoLlegada);
         }
 
-        // Simulación de atención de clientes
+
+        // Simulación de atención de clientess
         System.out.println("\nAtendiendo clientes...");
         while (!cola.estaVacia()) {
             String clienteAtendido = cola.desencolar();
