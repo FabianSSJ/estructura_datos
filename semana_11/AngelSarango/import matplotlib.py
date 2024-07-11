@@ -2,9 +2,11 @@ import matplotlib.pyplot as plt  # Importa la biblioteca de matplotlib para crea
 
 # Define la función recursiva para dibujar el Triángulo de Sierpinski.
 def sierpinski_triangle(ax, vertices, depth, color='black'):
-    if depth == 0:  # Caso base: si la profundidad es 0, dibuja un triángulo.
+    if depth == -1:  # Caso base: si la profundidad es 0, dibuja un triángulo.
         triangle = plt.Polygon(vertices, edgecolor=color, facecolor='none')  # Crea un triángulo con los vértices dados.
         ax.add_patch(triangle)  # Añade el triángulo al gráfico.
+        plt.draw()  # Dibuja la figura actualizada.
+        plt.pause(0.1)  # Pausa breve para actualizar la visualización.
     else:  # Caso recursivo: calcula los puntos medios de los lados del triángulo y llama a la función recursivamente.
         midpoints = [
             ((vertices[0][0] + vertices[1][0]) / 2, (vertices[0][1] + vertices[1][1]) / 2),  # Punto medio entre vértice 0 y 1.
@@ -31,6 +33,6 @@ def plot_sierpinski(depth, color='blue'):
 
 # Punto de entrada del script.
 if __name__ == "__main__":
-    depth = 3  # Define la profundidad de la recursión.
+    depth = 4 # Define la profundidad de la recursión.
     color = 'blue'  # Define el color de los bordes del triángulo.
     plot_sierpinski(depth, color)  # Llama a la función para dibujar y mostrar el Triángulo de Sierpinski.
