@@ -64,7 +64,7 @@ public class DoublyCircularLinkedList {
         size++; // Incrementar el tamaño de la lista
     }
 
-    /**
+    -/**
      * Método para eliminar un nodo con un valor específico de la lista.
      *
      * @param data El valor del nodo a eliminar.
