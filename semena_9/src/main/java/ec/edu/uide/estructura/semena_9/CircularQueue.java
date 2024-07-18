@@ -39,7 +39,7 @@ public class CircularQueue {
     */
     public boolean isFull() {
         return (rear + 1) % size == front;
-    }
+    }   
 
     // Método para agregar un elemento a la cola
     public void enqueue(int element) {
