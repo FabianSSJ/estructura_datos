@@ -1,4 +1,4 @@
-# Árbol Recursivo con Python
+#🌲 Árbol Recursivo con Python🌲
 
 Este proyecto implementa un árbol recursivo utilizando Python con las bibliotecas Matplotlib y Tkinter. El árbol se dibuja en una ventana gráfica, y la profundidad de la recursión puede ser ajustada para observar diferentes configuraciones del árbol.
 
