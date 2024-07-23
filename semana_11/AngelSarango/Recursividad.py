@@ -33,6 +33,6 @@ def plot_sierpinski(depth, color='blue'):
 
 # Punto de entrada del script.
 if __name__ == "__main__":
-    depth = 4 # Define la profundidad de la recursión.
+    depth = 3 # Define la profundidad de la recursión.
     color = 'blue'  # Define el color de los bordes del triángulo.
     plot_sierpinski(depth, color)  # Llama a la función para dibujar y mostrar el Triángulo de Sierpinski.
