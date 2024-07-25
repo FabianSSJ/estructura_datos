@@ -56,6 +56,3 @@ Si deseas contribuir a este proyecto, por favor:
 
 
 
-## :octocat: Contacto :octocat:
-
-Link del Proyecto: [https://github.com/T0NY24/estructura_datos.git](https://github.com/T0NY24/estructura_datos.git)
