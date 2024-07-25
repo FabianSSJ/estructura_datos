@@ -97,6 +97,4 @@ public class list2Enlazada {
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
-        }
-    }
-}
+        }}}
