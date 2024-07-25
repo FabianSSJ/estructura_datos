@@ -101,3 +101,5 @@ arbol.preorden(arbol.raiz)
 
 print("\nRecorrido postorden:")
 arbol.postorden(arbol.raiz)
+
+
